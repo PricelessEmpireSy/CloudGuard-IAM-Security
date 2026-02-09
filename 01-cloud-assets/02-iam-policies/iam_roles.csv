@@ -1,0 +1,6 @@
+role_id,role_name,department,access_level,allowed_assets,mfa_required
+R-001,Finance-Admin,Finance,Full,Customer-DB|Backup-Storage,true
+R-002,HR-Manager,HR,Full,HR-Records,true
+R-003,IT-Engineer,IT,Full,Web-App-Server|Backup-Storage,true
+R-004,Data-Analyst,Data Team,ReadOnly,Analytics-Engine,false
+R-005,Intern,IT,ReadOnly,Web-App-Server,false
