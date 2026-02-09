@@ -25,4 +25,4 @@ Public access enabled and lack of access reviews.
 ## Lessons Learned
 
 - Enforce continuous access monitoring  
-- Require MFA and least privilege
+- Require MFA and least privilege.
