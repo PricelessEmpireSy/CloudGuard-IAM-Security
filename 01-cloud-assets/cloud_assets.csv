@@ -1,0 +1,6 @@
+asset_id,asset_name,asset_type,owner,public_access,data_sensitivity,region
+CA-001,Customer-DB,RDS Database,Finance,false,High,us-east-1
+CA-002,HR-Records,S3 Bucket,HR,true,High,us-east-1
+CA-003,Web-App-Server,EC2 Instance,IT,false,Medium,us-east-1
+CA-004,Backup-Storage,S3 Bucket,IT,false,High,us-west-2
+CA-005,Analytics-Engine,EC2 Instance,Data Team,false,Medium,eu-central-1
